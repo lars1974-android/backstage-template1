@@ -4,7 +4,7 @@ kind: Template
 # some metadata about the template itself
 metadata:
   name: v1beta2-demo
-  title: Test Action template
+  title: Test Action template GITHUB
   description: scaffolder v1beta2 template demo
 spec:
   owner: backstage/techdocs-core
