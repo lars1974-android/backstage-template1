@@ -44,7 +44,6 @@ spec:
         url: ./template
         values:
           name: '{{ parameters.name }}'
-          owner: '{{ parameters.owner }}'
 
     - id: fetch-docs
       name: Fetch Docs
