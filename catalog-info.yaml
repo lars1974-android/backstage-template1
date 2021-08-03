@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-template1
+  annotations:
+    github.com/project-slug: lars1974/backstage-template1
+spec:
+  type: other
+  lifecycle: unknown
+  owner: acme-corp
